@@ -1,0 +1,97 @@
+* {
+    font-family: "Inter", sans-serif;
+  }
+  .for_login {
+    justify-content: center !important;
+  }
+  .log_wel_come {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.85);
+  }
+  .login_label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.85);
+  }
+  .terms_conditions {
+    color: #0f2744;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 10px;
+  }
+  .carousel-slider {
+    border-radius: 50%;
+  }
+  .for_center {
+    text-align: -webkit-center;
+  }
+  .for_error {
+    margin-top: 10%;
+  }
+
+  .zoom {
+    transition: transform 0.2s;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    transform: scale(1.05);
+    text-shadow: 2px 2px;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+  }
+  .for_image {
+    height: 250px;
+    width: 250px;
+  }
+  .logout_btn {
+    margin-left: 15px;
+  }
+  .main_navbar {
+    align-items: center;
+    background-color: #fff !important;
+    box-shadow: 0 0 35px 0 rgb(154 161 171 / 15%);
+    height: 70px;
+    z-index: 1001;
+  }
+  .main_class {
+    margin-top: 2%;
+  }
+  .for_image {
+    height: 253px;
+    width: 239px;
+    border: 10px solid #fff;
+    cursor: pointer;
+  }
+  /*body {
+    background-color: #f5f6f9;
+  }*/
+  
+  .modal_dialog {
+    width: 175px;
+    float: right;
+    margin: 70px 10px 0px 0px;
+  }
+  .user_btn {
+    border: none;
+    background: none;
+  }
+  .user_image {
+    height: 32px;
+    width: 32px;
+  }
+  .text_login {
+    padding-left: 12px;
+  }
+  .dash_module_name {
+    padding-left: 60px;
+  }
